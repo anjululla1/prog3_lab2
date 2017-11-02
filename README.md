@@ -1,4 +1,4 @@
-# prog3_lab2_Java
+# Prog3_lab2_Java
 
 Write code to print to the console 1,000 randomly generated DNA 3 mers (e.g. “ACA”, “TCG” ).
 Where the frequency of A,C,G and T is 25% and is uniformly sampled.
